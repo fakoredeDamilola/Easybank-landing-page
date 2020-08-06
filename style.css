@@ -234,7 +234,7 @@ header nav ul li a {
     padding-left: 10px;
   }
 }
-@media (max-width: 1440px) {
+@media (max-width: 1200px) {
   .header-apart {
     display: none;
   }
@@ -285,7 +285,7 @@ header nav ul li a {
     margin-right: 0px;
   }
 }
-@media (min-width: 1440px) {
+@media (min-width: 1200px) {
   body {
     overflow-x: hidden;
   }
